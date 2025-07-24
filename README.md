@@ -1,6 +1,6 @@
 <h1>Lung Cancer Survival Prediction</h1>
 
-<p><img src="banner_lung_cancer_model.png" alt="Lung Cancer Model Banner"></p>
+<p><img src="banner_lung_cancer_model.png" alt="Lung Cancer Model Banner" width="600"></p>
 
 <p>
 This project uses machine learning to predict the survival of lung cancer patients based on medical and demographic data. It was trained on over <strong>890,000 data points</strong> and achieved a training accuracy of <strong>0.77</strong> using the XGBoost classifier.
