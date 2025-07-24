@@ -20,7 +20,7 @@ Lung cancer is one of the leading causes of cancer-related deaths. Predicting su
 </ul>
 
 <h2>📊 Dataset Overview</h2>
-<p><img src="dataset_overview_infographic.png" alt="Dataset Overview Infographic"></p>
+<p><img src="dataset_overview_infographic.png" alt="Dataset Overview Infographic" width="500"></p>
 <p>
 The dataset underwent preprocessing steps including:
 </p>
@@ -31,7 +31,7 @@ The dataset underwent preprocessing steps including:
 </ul>
 
 <h2>🧠 ML Workflow</h2>
-<p><img src="model_pipeline_diagram.png" alt="Model Pipeline Diagram"></p>
+<p><img src="model_pipeline_diagram.png" alt="Model Pipeline Diagram" width="500"></p>
 <ul>
   <li>Data cleaning and preprocessing</li>
   <li>Train-test split</li>
@@ -40,7 +40,7 @@ The dataset underwent preprocessing steps including:
 </ul>
 
 <h2>📈 Feature Importance</h2>
-<p><img src="feature_importance.png" alt="Feature Importance"></p>
+<p><img src="feature_importance.png" alt="Feature Importance" width="500"></p>
 <p>
 Most important features included:
 </p>
@@ -52,7 +52,7 @@ Most important features included:
 </ul>
 
 <h2>📉 Model Results</h2>
-<p><img src="ml_result_summary_card.png" alt="Model Results Summary"></p>
+<p><img src="ml_result_summary_card.png" alt="Model Results Summary" width="500"></p>
 <p>
 The XGBoost classifier achieved:
 </p>
